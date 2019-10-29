@@ -1,0 +1,5 @@
+ repository 一个开源项目 一个仓库 多个开源项目多个仓库
+star 收藏项目 方便查看
+fork 复制克隆项目 项目独立存在
+pull request 发起请求  加载新的文件
+watch 关注
